@@ -1,6 +1,11 @@
 # Friends Resturant
 
-A Simple Resturant Management System Project in PHP
+### A Simple Resturant Management System Project
 
-
-A pure custom PHP Project.
+#### Technologies used 
+> HTML <br/>
+> CSS <br/>
+> Javascript  <br/>
+> Php <br/>
+> Hack  <br/>
+> Python  <br/>
